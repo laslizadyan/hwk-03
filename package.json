@@ -1,0 +1,26 @@
+{
+  "name": "hwk-03",
+  "version": "0.0.1",
+  "description": "testing linters for homework",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aca-betconstruct/hwk-03.git"
+  },
+  "scripts": {
+    "test": "gulp lint:styles",
+    "build": "gulp build:styles",
+    "watch": "gulp watch:styles"
+  },
+  "keywords": [
+    "hwk"
+  ],
+  "author": "artbab",
+  "license": "MIT",
+  "homepage": "https://github.com/aca-betconstruct/hwk-03#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-sass": "^3.1.0",
+    "gulp-sass-lint": "^1.3.4",
+    "gulp-sourcemaps": "^2.6.4"
+  }
+}
