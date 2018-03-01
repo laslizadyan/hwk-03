@@ -4,7 +4,7 @@
 
 go to this url: https://material.angular.io/components/card/examples and observe the card of this image:
 
-![items](.taskdata/card.png)
+![card](.taskdata/card.PNG)
 
 card's buttons should be the same
 
